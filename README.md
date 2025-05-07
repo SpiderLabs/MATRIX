@@ -2,6 +2,12 @@
 [![Release v1.0](https://img.shields.io/badge/release-v1.0-orange.svg)](https://github.com/yourusername/matrix/releases)
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Issues](https://img.shields.io/badge/issues-0%20open-brightgreen.svg)](https://github.com/yourusername/matrix/issues)
+[![Blog](https://img.shields.io/badge/Related%20Blog-Lights%20Out%20and%20Stalled%20Factories-blue)](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/lights-out-and-stalled-factories-using-matrix-to-learn-about-modbus-vulnerabilities/)
+
+## Featured Technical Article
+📝 **[Lights Out and Stalled Factories: Using M.A.T.R.I.X to Learn About Modbus Vulnerabilities](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/lights-out-and-stalled-factories-using-matrix-to-learn-about-modbus-vulnerabilities/)**
+Check out the Trustwave SpiderLabs technical article that demonstrates M.A.T.R.I.X in action against a vulnerable Modbus TCP server dockerized target. The article provides detailed walkthroughs of each attack module, complete with practical examples and security insights tailored to industrial control systems in the energy and manufacturing sectors. A must-read for anyone looking to understand the practical applications of this tool in ICS security testing. 
+
 
 # M.A.T.R.I.X
 
@@ -249,3 +255,8 @@ This tool is provided for educational and authorized testing purposes only. User
 
 This project is licensed under the MIT License, meaning you are free to use, modify, and distribute it under proper ethical guidelines.
 
+## Authors
+* **Karl Biron** - follow me on LinkedIn and GitHub - [karlbiron](https://www.linkedin.com/in/karlbiron/) and [karlvbiron](https://github.com/karlvbiron/MATRIX)
+
+## Contribute
+If you have ideas or features you'd like to contribute, feel free to open a Pull Request. Otherwise, you can reach out to me directly on LinkedIn [karlbiron](https://www.linkedin.com/in/karlbiron/).
